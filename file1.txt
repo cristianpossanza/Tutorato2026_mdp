@@ -1,1 +1,2 @@
-ECHO attivo.
+cioa mi chiamo cristian, mi piacciono le moto e i fiori
+ciao 
